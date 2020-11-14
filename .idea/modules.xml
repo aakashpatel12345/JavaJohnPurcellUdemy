@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10 - if/10 - if.iml" filepath="$PROJECT_DIR$/10 - if/10 - if.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - Getting User Input/11 - Getting User Input.iml" filepath="$PROJECT_DIR$/11 - Getting User Input/11 - Getting User Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 - Do While/12 - Do While.iml" filepath="$PROJECT_DIR$/12 - Do While/12 - Do While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 - Switch/13 - Switch.iml" filepath="$PROJECT_DIR$/13 - Switch/13 - Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14 - Arrays/14 - Arrays.iml" filepath="$PROJECT_DIR$/14 - Arrays/14 - Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15 - Arrays of Strings/15 - Arrays of Strings.iml" filepath="$PROJECT_DIR$/15 - Arrays of Strings/15 - Arrays of Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16 - Multi-Dimensional Arrays/16 - Multi-Dimensional Arrays.iml" filepath="$PROJECT_DIR$/16 - Multi-Dimensional Arrays/16 - Multi-Dimensional Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17 - Classes and Objects/17 - Classes and Objects.iml" filepath="$PROJECT_DIR$/17 - Classes and Objects/17 - Classes and Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18 - Methods/18 - Methods.iml" filepath="$PROJECT_DIR$/18 - Methods/18 - Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19 - Getters and Return Values/19 - Getters and Return Values.iml" filepath="$PROJECT_DIR$/19 - Getters and Return Values/19 - Getters and Return Values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20 - Method Parameters/20 - Method Parameters.iml" filepath="$PROJECT_DIR$/20 - Method Parameters/20 - Method Parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21 - Setters and 'this'/21 - Setters and 'this'.iml" filepath="$PROJECT_DIR$/21 - Setters and 'this'/21 - Setters and 'this'.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22 - Constructors/22 - Constructors.iml" filepath="$PROJECT_DIR$/22 - Constructors/22 - Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23 - Static (and Final)/23 - Static (and Final).iml" filepath="$PROJECT_DIR$/23 - Static (and Final)/23 - Static (and Final).iml" />
+      <module fileurl="file://$PROJECT_DIR$/24 - StringBuilder and String Formatting/24 - StringBuilder and String Formatting.iml" filepath="$PROJECT_DIR$/24 - StringBuilder and String Formatting/24 - StringBuilder and String Formatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25 - The toString Method/25 - The toString Method.iml" filepath="$PROJECT_DIR$/25 - The toString Method/25 - The toString Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26 - Inheritance/26 - Inheritance.iml" filepath="$PROJECT_DIR$/26 - Inheritance/26 - Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27 - Packages/27 - Packages.iml" filepath="$PROJECT_DIR$/27 - Packages/27 - Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28 - Interfaces/28 - Interfaces.iml" filepath="$PROJECT_DIR$/28 - Interfaces/28 - Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29 - Public,Private,Protected/29 - Public,Private,Protected.iml" filepath="$PROJECT_DIR$/29 - Public,Private,Protected/29 - Public,Private,Protected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30 - Polymorphism/30 - Polymorphism.iml" filepath="$PROJECT_DIR$/30 - Polymorphism/30 - Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31 - Encapsulation and the API Docs/31 - Encapsulation and the API Docs.iml" filepath="$PROJECT_DIR$/31 - Encapsulation and the API Docs/31 - Encapsulation and the API Docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32 - Casting Numerical Values/32 - Casting Numerical Values.iml" filepath="$PROJECT_DIR$/32 - Casting Numerical Values/32 - Casting Numerical Values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33 - Upcasting and Downcasting/33 - Upcasting and Downcasting.iml" filepath="$PROJECT_DIR$/33 - Upcasting and Downcasting/33 - Upcasting and Downcasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34 - Using Generics/34 - Using Generics.iml" filepath="$PROJECT_DIR$/34 - Using Generics/34 - Using Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35 - Generics and Wildcards/35 - Generics and Wildcards.iml" filepath="$PROJECT_DIR$/35 - Generics and Wildcards/35 - Generics and Wildcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36 - Anonymous Classes/36 - Anonymous Classes.iml" filepath="$PROJECT_DIR$/36 - Anonymous Classes/36 - Anonymous Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37 - Reading Files using Scanner/37 - Reading Files using Scanner.iml" filepath="$PROJECT_DIR$/37 - Reading Files using Scanner/37 - Reading Files using Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/38 - Handling exceptions/38 - Handling exceptions.iml" filepath="$PROJECT_DIR$/38 - Handling exceptions/38 - Handling exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39 - Multiple Exceptions/39 - Multiple Exceptions.iml" filepath="$PROJECT_DIR$/39 - Multiple Exceptions/39 - Multiple Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40 - Runtime vs. checked Exceptions/40 - Runtime vs. checked Exceptions.iml" filepath="$PROJECT_DIR$/40 - Runtime vs. checked Exceptions/40 - Runtime vs. checked Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41 - Abstract Classes/41 - Abstract Classes.iml" filepath="$PROJECT_DIR$/41 - Abstract Classes/41 - Abstract Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/42 - Reading Files With File Reader/42 - Reading Files With File Reader.iml" filepath="$PROJECT_DIR$/42 - Reading Files With File Reader/42 - Reading Files With File Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43 - Try With Resources/43 - Try With Resources.iml" filepath="$PROJECT_DIR$/43 - Try With Resources/43 - Try With Resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/44 - Creating and Writing Text Files/44 - Creating and Writing Text Files.iml" filepath="$PROJECT_DIR$/44 - Creating and Writing Text Files/44 - Creating and Writing Text Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45 - The equals() Method/45 - The equals() Method.iml" filepath="$PROJECT_DIR$/45 - The equals() Method/45 - The equals() Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46 - Inner Classes/46 - Inner Classes.iml" filepath="$PROJECT_DIR$/46 - Inner Classes/46 - Inner Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/47 - Enum Types - Basic and Advanced Usage/47 - Enum Types - Basic and Advanced Usage.iml" filepath="$PROJECT_DIR$/47 - Enum Types - Basic and Advanced Usage/47 - Enum Types - Basic and Advanced Usage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/48 - Recursion - A useful trick up your sleeve/48 - Recursion - A useful trick up your sleeve.iml" filepath="$PROJECT_DIR$/48 - Recursion - A useful trick up your sleeve/48 - Recursion - A useful trick up your sleeve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/49 - Serialization - Saving Objects to Files/49 - Serialization - Saving Objects to Files.iml" filepath="$PROJECT_DIR$/49 - Serialization - Saving Objects to Files/49 - Serialization - Saving Objects to Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 - A Hello World Program/5 - A Hello World Program.iml" filepath="$PROJECT_DIR$/5 - A Hello World Program/5 - A Hello World Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/50 - Serializing Arrays/50 - Serializing Arrays.iml" filepath="$PROJECT_DIR$/50 - Serializing Arrays/50 - Serializing Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51 - ArrayList - Arrays the Easy Way/51 - ArrayList - Arrays the Easy Way.iml" filepath="$PROJECT_DIR$/51 - ArrayList - Arrays the Easy Way/51 - ArrayList - Arrays the Easy Way.iml" />
+      <module fileurl="file://$PROJECT_DIR$/52 - Linked Lists/52 - Linked Lists.iml" filepath="$PROJECT_DIR$/52 - Linked Lists/52 - Linked Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53 - HashMaps - Retrieving Objects via a Key/53 - HashMaps - Retrieving Objects via a Key.iml" filepath="$PROJECT_DIR$/53 - HashMaps - Retrieving Objects via a Key/53 - HashMaps - Retrieving Objects via a Key.iml" />
+      <module fileurl="file://$PROJECT_DIR$/54 - Sorted Maps/54 - Sorted Maps.iml" filepath="$PROJECT_DIR$/54 - Sorted Maps/54 - Sorted Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/55 - Sets/55 - Sets.iml" filepath="$PROJECT_DIR$/55 - Sets/55 - Sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/56 - Using Custom Objects in Sets and as Keys in Maps/56 - Using Custom Objects in Sets and as Keys in Maps.iml" filepath="$PROJECT_DIR$/56 - Using Custom Objects in Sets and as Keys in Maps/56 - Using Custom Objects in Sets and as Keys in Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/57 - Sorting Lists/57 - Sorting Lists.iml" filepath="$PROJECT_DIR$/57 - Sorting Lists/57 - Sorting Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/58 - Natural Ordering/58 - Natural Ordering.iml" filepath="$PROJECT_DIR$/58 - Natural Ordering/58 - Natural Ordering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/59 - Queues/59 - Queues.iml" filepath="$PROJECT_DIR$/59 - Queues/59 - Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6 - Using Variables/6 - Using Variables.iml" filepath="$PROJECT_DIR$/6 - Using Variables/6 - Using Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/60 - Using Iterators/60 - Using Iterators.iml" filepath="$PROJECT_DIR$/60 - Using Iterators/60 - Using Iterators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/61 - Implementing Iterable/61 - Implementing Iterable.iml" filepath="$PROJECT_DIR$/61 - Implementing Iterable/61 - Implementing Iterable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/62 - Deciding Which Collections to use/62 - Deciding Which Collections to use.iml" filepath="$PROJECT_DIR$/62 - Deciding Which Collections to use/62 - Deciding Which Collections to use.iml" />
+      <module fileurl="file://$PROJECT_DIR$/63 - Complex Data Structures/63 - Complex Data Structures.iml" filepath="$PROJECT_DIR$/63 - Complex Data Structures/63 - Complex Data Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7 - Strings - Working With Text/7 - Strings - Working With Text.iml" filepath="$PROJECT_DIR$/7 - Strings - Working With Text/7 - Strings - Working With Text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8 - While Loops/8 - While Loops.iml" filepath="$PROJECT_DIR$/8 - While Loops/8 - While Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9 - For Loops/9 - For Loops.iml" filepath="$PROJECT_DIR$/9 - For Loops/9 - For Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java for Complete Beginners.iml" filepath="$PROJECT_DIR$/Java for Complete Beginners.iml" />
+    </modules>
+  </component>
+</project>
